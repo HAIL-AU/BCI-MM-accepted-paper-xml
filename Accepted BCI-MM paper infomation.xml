@@ -1,0 +1,99 @@
+	<paper>
+		<paper_type>Full/Short Paper</paper_type> 
+	    <art_submission_date>26-JUL-2024</art_submission_date>
+		<art_approval_date>12-AUG-2024</art_approval_date>
+		<paper_title>BCI xxx </paper_title>
+		<event_tracking_number>Submission 1</event_tracking_number>
+		<published_article_number/>
+		<start_page/>
+		<end_page/>
+		<authors>
+			<author>
+				<prefix/>
+				<first_name>Bob</first_name>
+				<middle_name/>
+				<last_name>Smith</last_name>
+				<suffix/>
+				<affiliations>
+					<affiliation>
+						<department>Computer Science Department</department>
+						<institution>Princeton University</institution>
+						<city>Princeton</city>
+						<state_province>New Jersey</state_province>
+						<country>USA</country>
+						<sequence_no>1</sequence_no>
+					</affiliation>
+					<affiliation>
+						<department/>
+						<institution>University of Cambridge</institution>
+						<city>Cambridge</city>
+						<state_province/>
+						<country>UK</country>
+						<sequence_no>2</sequence_no>
+					</affiliation>
+				</affiliations>
+				<email_address>bsmith@123.abc</email_address>
+				<sequence_no>1</sequence_no>
+				<contact_author>Y</contact_author>
+				<ACM_profile_id/>				
+				<ACM_client_no/>
+				<ORCID>####-####-####-####</ORCID>
+			</author>
+			<author>
+				<prefix/>
+				<first_name>Mary</first_name>
+				<middle_name/>
+				<last_name>Jones</last_name>
+				<suffix/>
+				<affiliations>
+					<affiliation>
+						<department>Department of Electrical Engineering</department>
+						<institution>Tufts University</institution>
+						<city>Medford</city>
+						<state_province>MA</state_province>
+						<country>USA</country>
+						<sequence_no>1</sequence_no>
+					</affiliation>
+					<affiliation>
+						<department/>
+						<institution>Tsinghua University</institution>
+						<city>Beijing</city>
+						<state_province/>
+						<country>China</country>
+						<sequence_no>2</sequence_no>
+					</affiliation>
+				</affiliations>
+				<email_address>mjones@abc.123</email_address>
+				<sequence_no>2</sequence_no>
+				<contact_author>N</contact_author>
+				<ACM_profile_id/>				
+				<ACM_client_no/>
+				<ORCID>####-####-####-####</ORCID>
+			</author>
+			<author>
+				<prefix/>
+				<first_name>Thomas</first_name>
+				<middle_name/>
+				<last_name>Lee</last_name>
+				<suffix/>
+				<affiliations>
+					<affiliation>
+						<department>School of Electrical Engineering and Computer Science</department>
+						<institution>University of Ottawa</institution>
+						<city>Ottawa</city>
+						<state_province>Ontario</state_province>
+						<country>Canada</country>
+						<sequence_no>1</sequence_no>
+					</affiliation>
+				</affiliations>
+				<email_address>tlee@abcd.1234</email_address>
+				<sequence_no>3</sequence_no>
+				<contact_author>N</contact_author>
+				<ACM_profile_id/>				
+				<ACM_client_no/>
+				<ORCID/>
+			</author>
+		</authors>
+		<section>Topic A</section>
+		<sequence_no>1</sequence_no>
+	</paper>
